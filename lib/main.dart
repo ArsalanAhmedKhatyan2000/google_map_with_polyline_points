@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'Google Map Demo',
       theme: ThemeData(primarySwatch: Colors.blue),
       home: const HomeScreen(), // MapScreen(),
     );
